@@ -16,7 +16,7 @@ This lab was created by Sorana Morrissy updated by Florence Cavalli
 
 ### Description of the lab
 
-Welcome to the lab for **Genome Visualization**! This lab will introduce you to the [Integrative Genomics Viewer](http://www.broadinstitute.org/igv/home), one of the most popular visualization tools for High Throughput Sequencing (HTS) data.
+Welcome to the lab for **Genome Visualization**! This lab will introduce you to the [Integrative Genomics Viewer](http://software.broadinstitute.org/software/igv/home), one of the most popular visualization tools for High Throughput Sequencing (HTS) data.
 
 After this lab, you will be able to:
 
